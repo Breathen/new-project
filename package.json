@@ -1,0 +1,27 @@
+{
+  "name": "new-project",
+  "version": "1.0.0",
+  "description": "Basic new-project",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Breathen/new-project.git"
+  },
+  "keywords": [
+    "NPM",
+    "Ruby",
+    "Gem",
+    "Gulp",
+    "Bower",
+    "Sass"
+  ],
+  "author": "Breathen Hops",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Breathen/new-project/issues"
+  },
+  "homepage": "https://github.com/Breathen/new-project#readme"
+}
