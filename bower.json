@@ -1,0 +1,29 @@
+{
+  "name": "new-project",
+  "description": "Basic new-project",
+  "main": "gulpfile.js",
+  "authors": [
+    "Breathen Hops"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "NPM",
+    "Ruby",
+    "Gem",
+    "Gulp",
+    "Bower",
+    "Sass"
+  ],
+  "moduleType": [
+    "node"
+  ],
+  "homepage": "http://breathen.github.io/new-project",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
